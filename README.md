@@ -1,4 +1,4 @@
-# set-custom-cookie-in-wordpress
+# Set custom cookie in wordpress
 So many time I have tried but I could not add any coockie or session to store some temprary data. Finally I tried the javascript codes to store the cookie and it worked for me. 
 
 You can also try this code to store any cookie in WordPress or php or HTML sites also.
